@@ -9,5 +9,11 @@ Einzelprojekt: Thema Rezeptesammlung in pure PHP: ON21_3
 6.	Browser öffnen (z.B. Safari, Chrome, Firefox)
 7.	Im Browser “http://localhost:8000/” eingeben
 8.	bestätigen 
-9.	Location: Startseite meines Projektes
-10.	 Anmeldedaten: Username -> user, Passwort -> passwort
+9.	 Anmeldedaten: Username --> user, Passwort --> passwort
+10.	 Auf die Datenbank „rezeptedatenbank“ klicken
+11.	 Auf Importieren klicken
+12.	 Die sql Dateien „s_user“ und „s_rezept“ per drag and drop in Feld ziehen
+13.	 Im Browser “http://localhost:8000/” eingeben
+14.	 bestätigen 
+15.	 Location= Startseite meines Projektes
+16.	 Anmeldedaten: Username --> user, Passwort --> passwort
